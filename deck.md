@@ -28,10 +28,10 @@ autoscale: true
 * Ask questions, but again I'm not looking for a fight
 
 ---
-# What is Docker
+# What is Docker?
 
 ---
-### What is Docker
+### What is Docker?
 
 > Docker is used to run software packages called "containers". Containers are isolated from each other and bundle their own tools, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and are thus more lightweight than virtual machines. Containers are created from "images" that specify their precise contents. Images are often created by combining and modifying standard images downloaded from public repositories.
 
@@ -42,7 +42,41 @@ autoscale: true
 ---
 ## Well then smarty pants, what the h-e-double-hockey-sticks is a container
 
+^ Page 6
 
---
+---
+## What's an image?
+
+^ Page 6
+
+---
 ## Installing docker
 * From Docker: https://store.docker.com/search?type=edition&offering=community
+
+---
+# Demo Getting Started
+
+---
+# Demo generating a new Rails app
+
+---
+# What is Docker Compose?
+
+---
+## What is Docker Compose?
+
+
+
+---
+# Demo Docker Compose
+
+---
+# Demo adapting an existing Rails app
+
+---
+## Wrap up
+We learned:
+* What Docker is
+* The difference between a container and an Image
+* What Docker Compose is
+
