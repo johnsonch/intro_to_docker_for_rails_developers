@@ -16,8 +16,8 @@ autoscale: true
 ## What are we going to talk about today?
 
 * Docker
-* Some of my experiences
-* Possibly Docker Compose
+ * From one offs to runing an application
+* Some of my experiences, for color along the way
 
 ![full](https://images.pexels.com/photos/753331/pexels-photo-753331.jpeg)
 
