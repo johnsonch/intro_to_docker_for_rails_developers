@@ -128,19 +128,19 @@ Server:
 ## Our first docker container
 
 ```shell
-$ docker run shell:latest echo 'hello world'
+$ docker run bash:latest echo 'hello world'
 ```
 
 Gives us the following
 
 ```
-Unable to find image 'shell:latest' locally
-latest: Pulling from library/shell
+Unable to find image 'bash:latest' locally
+latest: Pulling from library/bash
 4fe2ade4980c: Pull complete
 ec6d9ca5c66a: Pull complete
 d8685fbd86ca: Pull complete
 Digest: sha256:8634afcddefc8a10565b22d685df782058b096712a91bf45d75633f368dda729
-Status: Downloaded newer image for shell:latest
+Status: Downloaded newer image for bash:latest
 hello world
 
 ```
