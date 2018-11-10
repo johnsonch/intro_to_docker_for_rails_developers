@@ -407,9 +407,17 @@ We learned:
 ![full](https://images.pexels.com/photos/860620/pexels-photo-860620.jpeg)
 
 ---
+## Next steps
+* https://pragprog.com/book/ridocker/docker-for-rails-developers
+* https://www.apress.com/us/book/9781484224144
+
+---
 # Questions
 
 ![full](https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg)
 
 ---
-![full](http://johnsonch.com/2018-milwaukee-code-camp-speaker-intro-image-part-one.png)
+![full](./images/2018-milwaukee-code-camp-speaker-intro-image-part-one.png)
+
+---
+![full](./images/2018-milwaukee-code-camp-speaker-intro-image-part-two.png)
