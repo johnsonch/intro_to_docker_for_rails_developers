@@ -408,8 +408,15 @@ We learned:
 
 ---
 ## Next steps
-* https://pragprog.com/book/ridocker/docker-for-rails-developers
-* https://www.apress.com/us/book/9781484224144
+![left](./images/deploying_rails_with_docker.jpg)
+
+
+![right](./images/ridocker.jpg)
+
+^ https://www.apress.com/us/book/9781484224144
+^ https://pragprog.com/book/ridocker/docker-for-rails-developers
+
+
 
 ---
 # Questions
